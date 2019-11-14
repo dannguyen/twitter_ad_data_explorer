@@ -1,0 +1,55 @@
+{
+    "deviceInfo":
+    {
+        "osType": "Ios",
+        "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+        "deviceType": "iPhone"
+    },
+    "displayLocation": "TimelineHome",
+    "promotedTweetInfo":
+    {
+        "tweetId": "1189919963701751808",
+        "tweetText": "Looking for a great disguise idea for Halloween? How about a pigeon? #SpiesInDisguise https://t.co/DSqxZ0xUEZ",
+        "urls": [],
+        "mediaUrls": ["https://t.co/DSqxZ0xUEZ"]
+    },
+    "advertiserInfo":
+    {
+        "advertiserName": "Spies in Disguise",
+        "screenName": "@SpiesInDisguise"
+    },
+    "matchedTargetingCriteria": [
+    {
+        "targetingType": "Events",
+        "targetingValue": "Halloween 2019"
+    },
+    {
+        "targetingType": "Events",
+        "targetingValue": "Dia de los Muertos 2019"
+    },
+    {
+        "targetingType": "Keywords",
+        "targetingValue": "#Halloween"
+    },
+    {
+        "targetingType": "Keywords",
+        "targetingValue": "Halloween 2019"
+    },
+    {
+        "targetingType": "Keywords",
+        "targetingValue": "Halloween"
+    },
+    {
+        "targetingType": "Keywords",
+        "targetingValue": "#Halloween2019"
+    },
+    {
+        "targetingType": "Age",
+        "targetingValue": "13 and up"
+    },
+    {
+        "targetingType": "Locations",
+        "targetingValue": "United States"
+    }],
+    "impressionTime": "2019-11-01 00:06:49"
+}

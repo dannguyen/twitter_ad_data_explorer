@@ -1,0 +1,1466 @@
+{
+    "adsUserData":
+    {
+        "adImpressions":
+        {
+            "impressions": [
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "ClusterFollow",
+                "advertiserInfo":
+                {
+                    "advertiserName": "Amazon Prime Video US",
+                    "screenName": "@PrimeVideo"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 19:37:32"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1159252232220631042",
+                    "tweetText": "The shooter who murdered my son, Dylan, brought 10 30-round magazines with him into Sandy Hook Elementary. In 4 minutes, he shot 154 bullets, killing 20 children and 6 educators. Sign our petition demanding Congress limit the size of gun magazines now. -Nicole",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Sandy Hook Promise",
+                    "screenName": "@sandyhook"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@bradybuzz"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@shannonrwatts"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@davidhogg111"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@GiffordsCourage"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@sandyhook"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@JaclynCorin"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@AMarch4OurLives"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@GabbyGiffords"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MomsDemand"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@cameron_kasky"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Everytown"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Emma4Change"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "SHP - Donors - 040319"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "SHP - Full List - 040319"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "25 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 19:37:45"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "ProfileTweets",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1158787688788443137",
+                    "tweetText": "RT @OwnByFemme: Shea butter on my skin and my curls! Styled this easy updo with @SuaveBeauty!  #SuavePartner https://t.co/DmpwxFthT2",
+                    "urls": [],
+                    "mediaUrls": ["https://t.co/DmpwxFthT2"]
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "SuaveBeauty",
+                    "screenName": "@SuaveBeauty"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@IssaRae"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "18 to 49"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                },
+                {
+                    "targetingType": "Gender",
+                    "targetingValue": "Women"
+                }],
+                "impressionTime": "2019-08-09 19:37:31"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "ProfileTweets",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1158397518780293126",
+                    "tweetText": "If you could only live with one size of Vaseline forever, which do you choose?",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Vaseline",
+                    "screenName": "@VaselineBrand"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@IssaRae"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Vaseline"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "25 to 54"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                },
+                {
+                    "targetingType": "Gender",
+                    "targetingValue": "Women"
+                }],
+                "impressionTime": "2019-08-09 19:37:37"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1097583257644863491",
+                    "tweetText": "Incisive commentary for the intellectually curious. Follow today. https://t.co/EwKycFP8Te",
+                    "urls": [],
+                    "mediaUrls": ["https://t.co/EwKycFP8Te"]
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "City Journal",
+                    "screenName": "@CityJournal"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NRO"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@charlescwcooke"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@JonahDispatch"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:30:15"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1156987074228162560",
+                    "tweetText": "With over 110 million Americans over age 50, it's no wonder this Princeton grad's startup just raised another $28 million in funding to help people conquer #retirement.",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "SmartAsset",
+                    "screenName": "@smartasset"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@nytimes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MONEY"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@businessinsider"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NBCNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FT"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@USATODAY"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@business"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FinancialTimes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@WSJbusiness"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@WSJ"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TheEconomist"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Forbes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MarketWatch"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MSNBC"
+                },
+                {
+                    "targetingType": "Tailored audiences (web)",
+                    "targetingValue": "Contact Advivor Submit"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "LinkedIn Advisor Exclusion_Discodata_6.27"
+                },
+                {
+                    "targetingType": "Behaviors",
+                    "targetingValue": "US - Net worth: $25,000 to $49,999"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "Valid CRM leads YTD_7.9"
+                },
+                {
+                    "targetingType": "Behaviors",
+                    "targetingValue": "US - Home renter"
+                },
+                {
+                    "targetingType": "Behaviors",
+                    "targetingValue": "US - Home renter"
+                },
+                {
+                    "targetingType": "Behaviors",
+                    "targetingValue": "US - Net worth: $50,000 to $74,999"
+                },
+                {
+                    "targetingType": "Behaviors",
+                    "targetingValue": "US - Net worth: $1 - $100,000"
+                },
+                {
+                    "targetingType": "Languages",
+                    "targetingValue": "English"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "50 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:05:17"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "SearchTweets",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1119276376186601472",
+                    "tweetText": "Reading your favorite magazines cover to cover is easy with News+. \uD83D\uDDDE\n\nGet your first month free.",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Apple News",
+                    "screenName": "@AppleNews"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@CIRonline"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@morningmika"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TheAtlantic"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ezraklein"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@latimes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@nytimes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NRO"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@DavidCornDC"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NPR"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NiemanLab"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@cnnbrk"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NBCNightlyNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@AP"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@politico"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TIME"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TPM"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@newrepublic"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@mitchellreports"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@CBSNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@davidaxelrod"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@voxdotcom"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@davidfrum"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NPRextra"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@BBCWorld"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ABC"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@publicintegrity"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@wolfblitzer"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@npratc"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@mtaibbi"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MaddowBlog"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ACLU"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NBCNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Slate"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Newsweek"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@camanpour"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@PBS"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@USATODAY"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@mmfa"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@chrislhayes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@thedailybeast"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@jaketapper"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FiveThirtyEight"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@megynkelly"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@WSJ"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@CNN"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FoxNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@propublica"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Lawrence"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@axios"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@KeithOlbermann"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TheDailyShow"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NewsHour"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Reuters"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NewYorker"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@60Minutes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@HuffPost"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@BuzzFeedNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@JoyAnnReid"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@BBCBreaking"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@theintercept"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@washingtonpost"
+                },
+                {
+                    "targetingType": "OS versions",
+                    "targetingValue": "iOS 12.2 and above"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "35 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:52:04"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1159175696826028032",
+                    "tweetText": "RT @vmas: You’ll never find another like @taylorswift13….\uD83E\uDD8B\n\nAND SHE’S PERFORMING LIVE AT THE #VMAs \uD83D\uDC97 BE PART OF THE MOMENT. AUGUST 26 on @M…",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "MTV",
+                    "screenName": "@MTV"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "Taylor Swift"
+                },
+                {
+                    "targetingType": "Languages",
+                    "targetingValue": "English"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "13 to 34"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:06:05"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1158397736808603648",
+                    "tweetText": "Everybody needs it and everybody loves it. Who would you get a jar for? #ListenToYourMoms https://t.co/Px2GO6DZAd",
+                    "urls": [],
+                    "mediaUrls": ["https://t.co/Px2GO6DZAd"]
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Vaseline",
+                    "screenName": "@VaselineBrand"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@IssaRae"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Vaseline"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "aging"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "face masks"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#aging"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#moisturizing"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#moisturize"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "moisturizing"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "face mask"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "skin care"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "moisturize"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "25 to 54"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                },
+                {
+                    "targetingType": "Gender",
+                    "targetingValue": "Women"
+                }],
+                "impressionTime": "2019-08-09 21:05:17"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1143579615216197632",
+                    "tweetText": "Smart medical devices continue to get smarter with increased memory, processing power, and battery life. Download the @techreview paper. https://t.co/SvdN8DYgDR https://t.co/Ss5Em14G02",
+                    "urls": ["https://t.co/SvdN8DYgDR"],
+                    "mediaUrls": ["https://t.co/Ss5Em14G02"]
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Medtronic",
+                    "screenName": "@Medtronic"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "BigData"
+                },
+                {
+                    "targetingType": "Languages",
+                    "targetingValue": "English"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "25 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:30:15"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1156616513144512517",
+                    "tweetText": "\uD83D\uDC40 Looking for an inside view of a #DayInTheLife of our crews? \uD83D\uDC77 Follow us to see what it’s like working #BehindTheLight!",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "ComEd",
+                    "screenName": "@ComEd"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "Space and astronomy"
+                },
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "Science news"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 21:30:15"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1148327119535181824",
+                    "tweetText": "Instead of spending her time at swanky fundraisers listening to the donors who write the biggest checks, Elizabeth is traveling all around the country to hear directly from people like you. Will you fill out this 2-minute survey and let Elizabeth know what issues matter to you?",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Elizabeth Warren",
+                    "screenName": "@ewarren"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@SenWarren"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ewarren"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Elizabeth Warren"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "FEL 2.5.19"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "FEL_2.4.18"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-09 23:59:06"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "SearchTweets",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1158379013049593860",
+                    "tweetText": "Nia Sioux gets her fitness on with the help of her laptop powered by an Intel Core processor. What’s your fave workout to stream?",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Best Buy",
+                    "screenName": "@BestBuy"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ZDNet"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@karaswisher"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ForbesTech"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@cnntech"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@verge"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Gizmodo"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@WIRED"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FastCompany"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TechCrunch"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@technology"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@engadget"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@TheEconomist"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@CNET"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@fmanjoo"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Forbes"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@mashable"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ktbenner"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                },
+                {
+                    "targetingType": "Platforms",
+                    "targetingValue": "iOS"
+                }],
+                "impressionTime": "2019-08-10 00:48:28"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1142100657106837509",
+                    "tweetText": "Big-time seating—it’s kind of a big deal.",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Chrysler",
+                    "screenName": "@Chrysler"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#van"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "van"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "18 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 00:19:12"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1156863119689318401",
+                    "tweetText": "Seven new flavors. All five layers. Click below to discover all 7 Talenti Gelato Layers flavors.",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Talenti Gelato",
+                    "screenName": "@TalentiGelato"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Starbucks"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "18 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 00:19:25"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "ProfileAccountsSidebar",
+                "advertiserInfo":
+                {
+                    "advertiserName": "Judicial Watch \uD83D\uDD0E",
+                    "screenName": "@JudicialWatch"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "Government"
+                },
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "U.S. military"
+                },
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "Political elections"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NRO"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@marcorubio"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@realDonaldTrump"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@KellyannePolls"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@DonaldJTrumpJr"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@thehill"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@HouseGOP"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@BenSasse"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@tedcruz"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@BretBaier"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@GOP"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@FoxNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@VP"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Heritage"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#Trump"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#VoteRed"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "#votered"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "18 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 00:17:00"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1104076902116085762",
+                    "tweetText": "Mitch McConnell said: \"One of my proudest moments was when I told Obama, 'You will not fill this Supreme Court vacancy.' \" We're conducting a survey to see how Democrats want to fight back, but we're missing your response. Do you approve of Mitch McConnell?",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Senate Democrats",
+                    "screenName": "@dscc"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@SenateDems"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "35 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "Illinois"
+                }],
+                "impressionTime": "2019-08-10 00:10:09"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "ProfileAccountsSidebar",
+                "advertiserInfo":
+                {
+                    "advertiserName": "Atlanta Meetings",
+                    "screenName": "@ATLMeetings"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@PCMag"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "Chicago IL, US"
+                }],
+                "impressionTime": "2019-08-10 00:44:48"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1157084021869830145",
+                    "tweetText": "\"Absolute gold on your hair\" - Allure",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Prose",
+                    "screenName": "@prosehair"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Tailored audiences (web)",
+                    "targetingValue": "Purchase (Purchase)"
+                },
+                {
+                    "targetingType": "Tailored audiences (web)",
+                    "targetingValue": "Website visits (PageView)"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "Prose_Buyers_06-24-2018"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "18 to 54"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                },
+                {
+                    "targetingType": "Gender",
+                    "targetingValue": "Women"
+                }],
+                "impressionTime": "2019-08-10 00:19:12"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1143589864136466434",
+                    "tweetText": "We tracked down 21 of the Democrats running for president and asked them all the same 18 questions. Watch their answers. https://t.co/t8YIlhYlko",
+                    "urls": ["https://t.co/t8YIlhYlko"],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "The New York Times",
+                    "screenName": "@nytimes"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Interests",
+                    "targetingValue": "Political elections"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@ewarren"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@NBCNews"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@JoeBiden"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@CNN"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Kamala Harris"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Bernie Sanders"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Government/Education"
+                },
+                {
+                    "targetingType": "Conversation topics",
+                    "targetingValue": "Political News"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "bernie sanders"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "elizabeth warren"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "michael bennet"
+                },
+                {
+                    "targetingType": "Keywords",
+                    "targetingValue": "donald trump"
+                },
+                {
+                    "targetingType": "Tailored audiences (web)",
+                    "targetingValue": "MKTG_Subs_AlwaysOn"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 00:19:12"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1159973885518983179",
+                    "tweetText": "Alex Jay Balan: What to look for in IoT Hacking? Backdoors, credential reuse, private key reuse, cloud chatter and many more signs. \nOur Chief Security Researcher @Jaymzu shares his know-how at @IoTvillage #DEFCON27",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Bitdefender BOX",
+                    "screenName": "@BitdefenderBOX"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@PCMag"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "21 to 49"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 01:12:36"
+            },
+            {
+                "deviceInfo":
+                {
+                    "osType": "Ios",
+                    "deviceId": "1xYZ2/aBCdeFgH/iJKlmn0pq/rsTuvwx1z/Abc=",
+                    "deviceType": "iPhone"
+                },
+                "displayLocation": "TimelineHome",
+                "promotedTweetInfo":
+                {
+                    "tweetId": "1159252232220631042",
+                    "tweetText": "The shooter who murdered my son, Dylan, brought 10 30-round magazines with him into Sandy Hook Elementary. In 4 minutes, he shot 154 bullets, killing 20 children and 6 educators. Sign our petition demanding Congress limit the size of gun magazines now. -Nicole",
+                    "urls": [],
+                    "mediaUrls": []
+                },
+                "advertiserInfo":
+                {
+                    "advertiserName": "Sandy Hook Promise",
+                    "screenName": "@sandyhook"
+                },
+                "matchedTargetingCriteria": [
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@bradybuzz"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@shannonrwatts"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@davidhogg111"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@GiffordsCourage"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@sandyhook"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@JaclynCorin"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@AMarch4OurLives"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@GabbyGiffords"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@MomsDemand"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@cameron_kasky"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Everytown"
+                },
+                {
+                    "targetingType": "Follower look-alikes",
+                    "targetingValue": "@Emma4Change"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "SHP - Donors - 040319"
+                },
+                {
+                    "targetingType": "Tailored audiences (lists)",
+                    "targetingValue": "SHP - Full List - 040319"
+                },
+                {
+                    "targetingType": "Age",
+                    "targetingValue": "25 and up"
+                },
+                {
+                    "targetingType": "Locations",
+                    "targetingValue": "United States"
+                }],
+                "impressionTime": "2019-08-10 01:12:09"
+            }]
+        }
+    }
+}
